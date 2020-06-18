@@ -1,0 +1,27 @@
+[
+ {
+  "titulo": "Practicar el switch",
+  "descripcion": "Entender para que sirve switch",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "Practicar el for",
+  "descripcion": "Entender como se usa",
+  "estado": "en progreso"
+ },
+ {
+  "titulo": "DIBUJO I",
+  "descripcion": "hacer un dibujo y subirlo al paddlet",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "app de tareas",
+  "descripcion": "ultimas modificaciones de la app",
+  "estado": "finalizado"
+ },
+ {
+  "titulo": "repositorio github",
+  "descripcion": "ubicar archivo en un repositorio github",
+  "estado": "pendiente"
+ }
+]
